@@ -1,11 +1,11 @@
-# Th3g3ntl3man CTF Writeups
+# ZipcodeManager
 
 *Things we learned from Capture The Flag hacking competitions we participated in.*
-The source code for our solutions can be found [here.]( https://github.com/hgarrereyn/Th3g3ntl3man-CTF-Writeups)
+The source code for our solutions can be found [here.]( https://github.com/hgarrereyn/ZipcodeManager)
 
-[Read on Gitbooks](https://hgarrereyn.gitbooks.io/th3g3ntl3man-ctf-writeups/content/)
+[Read on Gitbooks](https://hgarrereyn.gitbooks.io/ZipcodeManager/content/)
 
-[The Team](https://hgarrereyn.gitbooks.io/th3g3ntl3man-ctf-writeups/content/The_Team.html)
+[The Team](https://hgarrereyn.gitbooks.io/ZipcodeManager/content/The_Team.html)
 
 ## CTFs We Participated In
 
