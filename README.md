@@ -1,4 +1,4 @@
-# ZipcodeManager
+# PatchSeeker
 
 *Things we learned from Capture The Flag hacking competitions we participated in.*
 The source code for our solutions can be found [here.]( https://github.com/hgarrereyn/ZipcodeManager)
